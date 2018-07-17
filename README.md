@@ -38,3 +38,5 @@ Directly after test 4, Build > Rebuild project and note time "Gradle finished in
 Test6:
 First. Build > Clean
 Build > Make project and note time "Gradle finished in"
+
+## Please submit PR with your own results
