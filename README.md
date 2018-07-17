@@ -7,9 +7,9 @@ https://github.com/boredomdenied/MovieApp
 
 Name: Date: Test1: Test2: Test3: Test4: Test5: Test6: Version: OS: CPU: Memory: HardDrive: Emulator:
 
-boredomdenied | 07/17/18 | 12.9s | 20.2s | 4.1s | 731ms | 3370ms | 2804ms | AS 3.2beta4 | 18.04LTS | i7-3770 | 16GB DDR3 | EVO 970 250G | KVM
+boredomdenied 07/17/18 12.9s 20.2s 4.1s 731ms 3370ms 2804ms AS3.2beta4 18.04LTS i7-3770 16GBDDR3 EVO970250G    KVM
 
-dan           | 07/17/18 | 14.5s | 23.7s | 4.2s | 5.2s | 8.2s | 4.4s | ? | Win10 | r7-1700 | ? | Intel 600p 512G | GenyMotion
+dan           07/17/18 14.5s 23.7s 4.2s 5.2s  8.2s   4.4s   ?          Win10    r7-1700 ?        Intel600p512G GenyMotion
  
 
 
