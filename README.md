@@ -22,7 +22,7 @@ dan:
     14.5s | 23.7s | 4.2s | 5.2s  | 8.2s | 4.4s   
   - ?          
   - Win10    
-  - ryzen 7 1700 
+  - ryzen 7 1700 base clock 3.7Ghz
   - ?        
   - Intel 600p 512G 
   - GenyMotion
